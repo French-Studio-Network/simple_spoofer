@@ -7,6 +7,7 @@
 ![iPhone](https://img.shields.io/badge/Compatible-iPhone_%26_iPad-black?logo=apple)
 ![iOS](https://img.shields.io/badge/iOS-14_à_17+-blue?logo=apple)
 ![No Jailbreak](https://img.shields.io/badge/Jailbreak-Non_Requis-success)
+![Langue](https://img.shields.io/badge/Langue-🇫🇷_Français-blue)
 
 **Simple Spoofer** est un outil de modification GPS (Spoofing) premium et open-source pour les appareils iOS (iPhone/iPad). Développé par **French-Studio**, il permet de modifier la position GPS de votre appareil en temps réel, sans jailbreak, via une interface moderne, fluide et intuitive.
 
