@@ -55,7 +55,7 @@ Avant d'utiliser Simple Spoofer, assurez-vous d'avoir les éléments suivants in
    
 - ```cd simple_spoofer```
 - ```npm install```
--``` npm start```
+- ``` npm start```
 
 ---
 
